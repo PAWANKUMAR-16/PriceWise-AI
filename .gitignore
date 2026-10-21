@@ -1,0 +1,43 @@
+# Logs
+*.log
+
+# Build outputs
+target/
+build/
+dist/
+extension/dist/
+
+# IDE & Editor files
+.idea/
+*.iml
+.eclipse/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Environment & local credentials
+.env
+*.env.local
+*.env.*.local
+
+# Node
+node_modules/
+.npm/
+.cache/
+
+# Java / Maven build artifacts
+backend/target/
+*.class
+*.jar
+*.war
+!backend/.mvn/wrapper/maven-wrapper.jar
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test coverage
+coverage/
+*.lcov
+.nyc_output/

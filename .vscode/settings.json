@@ -1,0 +1,12 @@
+{
+  "java.jdt.ls.java.home": "C:\\Users\\LOQ\\tools\\jdk21",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\LOQ\\tools\\jdk21",
+      "default": true
+    }
+  ],
+  "typescript.tsdk": "frontend/node_modules/typescript/lib",
+  "editor.formatOnSave": true
+}
