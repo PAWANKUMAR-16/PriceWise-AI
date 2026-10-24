@@ -334,35 +334,6 @@ In Chrome:
 
 Simply double-click **`run_all.bat`** from the project root to start both backend and frontend simultaneously.
 
----
-
-## 7. Screenshots / Output
-
-### Homepage — Hero & Product Search
-![PriceWise AI Homepage](https://via.placeholder.com/900x500/1a1a2e/00d4ff?text=PriceWise+AI+-+Homepage+Hero)
-
-### Product Search Results
-![Search Results](https://via.placeholder.com/900x500/16213e/00d4ff?text=Search+Results+-+42+Products+with+Deal+Scores)
-
-### Product Detail — Price Comparison Table
-![Price Comparison](https://via.placeholder.com/900x500/0f3460/00d4ff?text=Multi-Store+Price+Comparison+Table)
-
-### Product Detail — Interactive Price History Chart
-![Price History Chart](https://via.placeholder.com/900x500/1a1a2e/10b981?text=30-Day+Price+History+Chart+with+Store+Filters)
-
-### Deal Score Panel
-![Deal Scanner](https://via.placeholder.com/900x500/16213e/f59e0b?text=Deal+Score+Panel+-+Hot+Deal+%2F+Fair+Price+Verdict)
-
-### User Watchlist & Price Alerts
-![Watchlist](https://via.placeholder.com/900x500/0f3460/f59e0b?text=Watchlist+-+Price+Alert+Setup)
-
-### Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/900x500/1a1a2e/a855f7?text=Admin+Dashboard+-+Ingestion+Runs+%26+Provider+Health)
-
-### Chrome Extension Popup
-![Chrome Extension](https://via.placeholder.com/400x300/16213e/00d4ff?text=Chrome+Extension+-+Injected+Price+Overlay)
-
----
 
 ## 8. DSA Concepts Used
 
