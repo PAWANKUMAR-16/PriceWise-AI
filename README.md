@@ -17,7 +17,7 @@
 |-------|---------|
 | **Project Title** | PriceWise AI — Smart Shopping Price Comparison & Tracking Platform |
 | **Project Guide** | **Ms. Aarshi Ma'am** |
-| **Academic Year** | 2025–2026 |
+| **Academic Year** | 2026–2027 |
 | **Degree / Branch** | B.Tech — Computer Science & Engineering |
 
 ### Team Members
